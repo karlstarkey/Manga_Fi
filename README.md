@@ -1,19 +1,19 @@
 # Otaku AI
 
-Otaku AI is an advanced AI-driven platform that crafts personalized manga-style profile pictures (PFPs) for Twitter users. Leveraging cutting-edge AI algorithms and seamless integration with the Twitter API, Otaku AI transforms user interactions into visually stunning, manga-inspired avatars. Designed for anime and manga enthusiasts, this program brings the artistry of manga directly to your social media presence.
+Otaku AI is an advanced AI-driven platform that crafts personalized manga-style profile pictures (PFPs) for X users. Leveraging cutting-edge AI algorithms and seamless integration with the X API, Otaku AI transforms user interactions into visually stunning, manga-inspired avatars. Designed for anime and manga enthusiasts, this program brings the artistry of manga directly to your social media presence.
 
 ## Features
 
-- **Dynamic Twitter Integration**: Automatically monitors and processes user tweets in real-time to generate responses and deliver PFPs.
+- **Dynamic X Integration**: Automatically monitors and processes user tweets in real-time to generate responses and deliver PFPs.
 - **Sophisticated Image Generation Pipeline**: Utilizes multi-layered AI models combining generative adversarial networks (GANs) and diffusion techniques to produce high-quality, manga-style artwork.
-- **Adaptive Styling**: AI analyzes user input and Twitter metadata (e.g., profile bio, activity) to tailor PFP designs uniquely for each individual.
+- **Adaptive Styling**: AI analyzes user input and X metadata (e.g., profile bio, activity) to tailor PFP designs uniquely for each individual.
 - **Scalable Architecture**: Built with modular components for performance and scalability, ensuring fast response times even under heavy user interaction.
 
 ## Installation
 
 ### Prerequisites
 - Python 3.9 or higher
-- Twitter API credentials for integration
+- X API credentials for integration
 - Docker (for optional containerized deployment)
 
 ### Steps
@@ -26,10 +26,10 @@ Otaku AI is an advanced AI-driven platform that crafts personalized manga-style 
    ```
 2. Set up your `.env` file with the following keys:
    ```
-   TWITTER_API_KEY=your_api_key
-   TWITTER_API_SECRET=your_api_secret
-   TWITTER_ACCESS_TOKEN=your_access_token
-   TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
+   X_API_KEY=your_api_key
+   X_API_SECRET=your_api_secret
+   X_ACCESS_TOKEN=your_access_token
+   X_ACCESS_TOKEN_SECRET=your_access_token_secret
    ```
 3. (Optional) Set up Redis for task queuing:
    ```bash
