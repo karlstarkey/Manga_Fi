@@ -54,6 +54,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For inquiries, support, or suggestions, reach out via otakuai@support.com.
+For inquiries, support, or suggestions, reach out via otakuai@support.com or contact us at https://x.com/OtakuAIStudio.
 
 Otaku AI: Bringing the artistry of manga to life—one tweet at a time.
