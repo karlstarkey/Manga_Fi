@@ -1,6 +1,6 @@
 # Otaku AI
 
-
+3uDCEH7EeBaeTD3a62AY3LLJFFogXMopZ1P9UAV4pump
 
 Otaku AI is an advanced AI-driven platform that crafts personalized manga-style profile pictures (PFPs) for X users. Leveraging cutting-edge AI algorithms and seamless integration with the X API, Otaku AI transforms user interactions into visually stunning, manga-inspired avatars. Designed for anime and manga enthusiasts, this program brings the artistry of manga directly to your social media presence.
 
