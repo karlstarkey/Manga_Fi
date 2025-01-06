@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "otaku-ai"
+name = "Manga_Fi"
 version = "1.0.0"
-description = "Otaku AI: A bot that generates custom manga-style PFPs using AI and Twitter API."
+description = "Manga_Fi: A bot that generates custom manga-style PFPs using AI and Twitter API."
 authors = ["Your Name <your-email@example.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/yourusername/otaku-ai"
-repository = "https://github.com/yourusername/otaku-ai"
+homepage = "https://github.com/yourusername/Manga_Fi"
+repository = "https://github.com/yourusername/Manga_Fi"
 keywords = ["manga", "AI", "Twitter", "profile picture", "anime"]
 
 [tool.poetry.dependencies]
