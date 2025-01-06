@@ -48,7 +48,7 @@ Manga_Fi doesn't just create images—it understands the user. By analyzing twee
 
 ## Contribution
 
-We welcome contributions! If you’d like to enhance Otaku AI or add new features, feel free to submit a pull request. Be sure to follow the repository's coding guidelines.
+We welcome contributions! If you’d like to enhance Manga_Fi or add new features, feel free to submit a pull request. Be sure to follow the repository's coding guidelines.
 
 ## License
 
