@@ -1,14 +1,14 @@
-# Otaku AI Code of Conduct
+# Manga_Fi Code of Conduct
 
 ## Our Pledge
 
-We, as members, contributors, and leaders of the Otaku AI community, pledge to make participation in this project and community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We, as members, contributors, and leaders of the Manga_Fi community, pledge to make participation in this project and community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We are committed to fostering a positive, inclusive, and creative environment where all anime and manga enthusiasts, developers, and AI enthusiasts feel welcome.
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment for the Otaku AI community include:
+Examples of behavior that contributes to a positive environment for the Manga_Fi community include:
 
 - Demonstrating empathy and kindness toward others.
 - Being respectful of differing opinions, styles, and preferences.
@@ -26,11 +26,11 @@ Examples of unacceptable behavior include:
 
 ## Scope
 
-This Code of Conduct applies within all Otaku AI spaces, including GitHub repositories, social media platforms, communication channels, and any other community-related interaction, both online and offline.
+This Code of Conduct applies within all Manga_Fi spaces, including GitHub repositories, social media platforms, communication channels, and any other community-related interaction, both online and offline.
 
 ## Reporting Issues
 
-If you experience or witness behavior that violates this Code of Conduct, please report it to the maintainers at **otakuai@support.com**. Reports will be reviewed promptly, and actions will be taken to address the issue while maintaining confidentiality.
+If you experience or witness behavior that violates this Code of Conduct, please report it to the maintainers at **Manga_Fi@support.com**. Reports will be reviewed promptly, and actions will be taken to address the issue while maintaining confidentiality.
 
 ## Enforcement Responsibilities
 
@@ -50,16 +50,16 @@ To ensure fair enforcement, the following guidelines will be followed:
 
 ### 3. Temporary Ban
 **Community Impact**: Sustained inappropriate behavior or serious incidents.  
-**Consequence**: Temporary exclusion from Otaku AI spaces.
+**Consequence**: Temporary exclusion from Manga_Fi spaces.
 
 ### 4. Permanent Ban
 **Community Impact**: Repeated or severe violations, including harassment or threats.  
-**Consequence**: Permanent removal from the Otaku AI community and revocation of all access rights.
+**Consequence**: Permanent removal from the Manga_Fi community and revocation of all access rights.
 
 ## Acknowledgements
 
-This Code of Conduct is adapted from the Contributor Covenant, version 2.1, and tailored to fit the Otaku AI community. We thank all contributors who help maintain an inclusive and respectful space.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1, and tailored to fit the Manga_Fi community. We thank all contributors who help maintain an inclusive and respectful space.
 
 ---
 
-**Otaku AI**: Combining the artistry of manga with the power of AI—together, let's build something amazing!
+**Manga_Fi**: Combining the artistry of manga with the power of AI—together, let's build something amazing!
