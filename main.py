@@ -11,12 +11,12 @@ from scripts.generate_sample import generate_sample
 
 def main():
     """
-    Main entry point for Otaku AI.
+    Main entry point for Manga_Fi.
     Provides options to start the bot, update dependencies, clear cache, or generate a sample image.
     """
     print(
         """
-    Welcome to Otaku AI!
+    Welcome to Manga_Fi!
     Please select an option:
     1. Start the bot
     2. Update dependencies
@@ -37,12 +37,11 @@ def main():
                 update_dependencies()
             elif choice == 3:
                 print("Clearing cache...")
-                clear_cache()
-            elif choice == 4:
+                clear_cache()ff
                 print("Generating a sample manga PFP...")
                 generate_sample()
             elif choice == 5:
-                print("Exiting Otaku AI. See you next time!")
+                print("Exiting Manga_Fi. See you next time!")
                 sys.exit(0)
             else:
                 print("Invalid choice. Please select a valid option.")
