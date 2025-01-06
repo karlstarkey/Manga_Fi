@@ -1,8 +1,7 @@
-# Otaku AI
+# Manga_Fi
 
-7j8qGYoGyUVCvoz7jT4GECvWiDMasCA4veEU37D9pump
 
-Otaku AI is an advanced AI-driven platform that crafts personalized manga-style profile pictures (PFPs) for X users. Leveraging cutting-edge AI algorithms and seamless integration with the X API, Otaku AI transforms user interactions into visually stunning, manga-inspired avatars. Designed for anime and manga enthusiasts, this program brings the artistry of manga directly to your social media presence.
+Manga_Fi is an advanced AI-driven platform that crafts personalized manga-style profile pictures (PFPs) for X users. Leveraging cutting-edge AI algorithms and seamless integration with the X API, Manga_Fi transforms user interactions into visually stunning, manga-inspired avatars. Designed for anime and manga enthusiasts, this program brings the artistry of manga directly to your social media presence.
 
 ## Features
 
@@ -23,7 +22,7 @@ Otaku AI is an advanced AI-driven platform that crafts personalized manga-style 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/OtakuAI.git
-   cd OtakuAI
+   cd Manga_Fi
    pip install -r requirements.txt
    ```
 2. Set up your `.env` file with the following keys:
@@ -35,7 +34,7 @@ Otaku AI is an advanced AI-driven platform that crafts personalized manga-style 
    ```
 3. (Optional) Set up Redis for task queuing:
    ```bash
-   docker run -d --name otaku-ai-redis -p 6379:6379 redis
+   docker run -d --name Manga_Fi-redis -p 6379:6379 redis
    ```
 4. Run the bot:
    ```bash
@@ -44,7 +43,7 @@ Otaku AI is an advanced AI-driven platform that crafts personalized manga-style 
 
 ## Key Functionalities
 
-Otaku AI doesn't just create images—it understands the user. By analyzing tweet content and user metadata, it tailors the PFP to match the user’s mood, interests, and personality. Our advanced pipeline ensures simultaneous handling of multiple user requests. Built-in queuing and prioritization logic allow efficient processing without delays. It supports various manga aesthetics, including Shounen (action-packed), Shoujo (romantic and soft), Seinen (mature and detailed), and Chibi (adorable and cartoony). Every generated PFP feeds back into the AI’s learning module, enhancing its ability to refine styles and adapt to user preferences.
+Manga_Fi doesn't just create images—it understands the user. By analyzing tweet content and user metadata, it tailors the PFP to match the user’s mood, interests, and personality. Our advanced pipeline ensures simultaneous handling of multiple user requests. Built-in queuing and prioritization logic allow efficient processing without delays. It supports various manga aesthetics, including Shounen (action-packed), Shoujo (romantic and soft), Seinen (mature and detailed), and Chibi (adorable and cartoony). Every generated PFP feeds back into the AI’s learning module, enhancing its ability to refine styles and adapt to user preferences.
 
 ## Contribution
 
@@ -56,6 +55,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For inquiries, support, or suggestions, reach out via otakuai@support.com or contact us at https://x.com/OtakuAIStudio.
+For inquiries, support, or suggestions, contact us at https://x.com/Manga_Fi.
 
 Otaku AI: Bringing the artistry of manga to life—one tweet at a time.
